@@ -32,7 +32,7 @@ Implements BFS, DFS, and Dijkstra’s Algorithm to solve maze-based pathfinding 
 **Python**  
 Built One-vs-All and Pairwise classifiers using decision trees and hinge/squared loss gradient descent.
 
-🔗 
+🔗 [View Repo](https://github.com/Bmeletoy/Multiclass-Classifier)
 
 ---
 
