@@ -36,4 +36,9 @@ Built One-vs-All and Pairwise classifiers using decision trees and hinge/squared
 
 ---
 
+## PCA, SoftMax Regression, and Neural Networks
+**Python**
+
+
+
 Feel free to explore and reach out if you'd like to collaborate or learn more!
